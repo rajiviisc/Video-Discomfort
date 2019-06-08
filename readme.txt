@@ -1,8 +1,9 @@
-Video Discomfort in Virtual Reality Dataset
+IISc Video Discomfort Dataset
 
 This dataset consists of:
 1. Blender files containing the mapped camera trajectories that were rendered to generate the final videos
 2. Discomfort scores provided by subjects after watching the videos
+
 References
 
 If you use our dataset or code, please cite our paper:
